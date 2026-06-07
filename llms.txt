@@ -1,0 +1,27 @@
+# Speculora
+
+> Speculora is the demand × saturation × gap map for software opportunities — the "Jungle Scout for app and software ideas." It tells solo developers, indie hackers, and founders which software tasks have real demand, how crowded the market is, and how badly the existing apps serve users, so they can decide what to build next with evidence instead of a hunch.
+
+Speculora organizes the software landscape into discrete **tasks** (specific jobs people want software to do, e.g. "split a restaurant bill among friends"). Each task is graded on a **gap gradient** of supply states — Prime Gap (heavily used, done badly), Lacks Features, Poorly Executed, Too Expensive, Undersupplied, Fully Served, Doesn't Exist — derived from tens of thousands of real user complaints mined from app store reviews. Opportunity is scored as demand × (1/competition) × execution gap × reachability. It currently covers six domains across 170+ tasks. The live product is at https://speculora.com.
+
+## Core concepts
+
+- [What is Speculora](https://speculora.com/info): The concept, the task unit, and the gap gradient.
+- [The gap gradient](https://github.com/speculora/speculora/blob/main/docs/gap-gradient.md): The six supply states and the Prime Gap, with examples.
+- [Opportunity score](https://github.com/speculora/speculora/blob/main/docs/opportunity-score.md): Demand, competition, execution gap, and reachability.
+- [Glossary](https://github.com/speculora/speculora/blob/main/docs/glossary.md): Every key term defined.
+- [FAQ](https://github.com/speculora/speculora/blob/main/docs/faq.md): Common questions with direct answers.
+
+## Guides
+
+- [How to find underserved software niches](https://github.com/speculora/speculora/blob/main/docs/how-to-find-underserved-software-niches.md)
+- [How to validate an app idea](https://github.com/speculora/speculora/blob/main/docs/how-to-validate-an-app-idea.md)
+- [Saturated vs. underserved markets](https://github.com/speculora/speculora/blob/main/docs/saturated-vs-underserved-markets.md)
+
+## Explore the live map
+
+- [All gaps ranked by opportunity](https://speculora.com/gaps)
+- [Browse by domain](https://speculora.com/domains)
+- [App ideas with proven demand](https://speculora.com/app-ideas)
+- [Software market saturation](https://speculora.com/software-market-saturation)
+- [Software demand](https://speculora.com/software-demand)

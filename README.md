@@ -1,5 +1,9 @@
 # Speculora
 
+[![Website](https://img.shields.io/badge/live-speculora.com-5b8cff)](https://speculora.com)
+[![License: CC BY 4.0](https://img.shields.io/badge/docs%20license-CC%20BY%204.0-lightgrey)](LICENSE)
+[![Docs](https://img.shields.io/badge/handbook-public-success)](https://github.com/speculora/speculora)
+
 **Speculora is the demand-and-saturation intelligence map for software opportunities.** It tells you, for thousands of discrete software jobs, how much real demand exists, how crowded the market is, and how badly the existing apps serve the people using them — so you can decide what to build next with evidence instead of a hunch.
 
 Think of it as Jungle Scout for app and software ideas instead of Amazon products. Where a product-research tool tells an Amazon seller which categories are profitable and which are saturated, Speculora does the same for software: it maps **demand × saturation × execution gap** across the software landscape and surfaces the niches that are underserved, poorly executed, or wide open.
@@ -160,6 +164,10 @@ Learn more about the project at [speculora.com/info](https://speculora.com/info)
 
 ---
 
+## Contributing
+
+This is the public handbook for Speculora, and contributions that make it clearer, more accurate, or more useful are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for what helps and how to propose changes, and our [Code of Conduct](CODE_OF_CONDUCT.md). To report a security issue with the product, see [SECURITY.md](SECURITY.md).
+
 ## License
 
-Documentation in this repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to quote, cite, and reuse it with attribution to Speculora. We *want* this content cited — that is the point.
+Documentation in this repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to quote, cite, and reuse it with attribution to Speculora. We *want* this content cited — that is the point. The Speculora name and logo are trademarks and are not covered by the license.
